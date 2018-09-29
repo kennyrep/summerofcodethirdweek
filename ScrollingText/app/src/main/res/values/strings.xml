@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title"> ANDROID DEVELOPER</string>
+    <string name="article_subtitle">MY EXPERIENCE</string>
+    <string name="artiicle_text"> For more readup on the post, see www.medium.com. \n <b>It is a privilege</b> and a thing of joy to be part of this wonderful experience. Ibadan summer of code afforded me the opportunity to be able to learn at my own pace and to be responsible.
+        Knowing that I am the architect of my own success is one thing that this experience has made me to understand. \n <b>The</b> last two weeks has been fantastic as I went through the rigorous training ofjava programming language. Java programming language is an object oriented programming languageand it is the world’s most widely used programming language. I learnt about variables, data types,strings, classes, methods, object and a lot of powerful java libraries.
+        \n Programming is a wonderful experience but tasky and requires that an individual commit a lot of time and energy into it. This whole experience is tailored toward making me become an android developer. To become an android developer, I was told that java is very important and that is why we (summer of code student) have committed these last two weeks into learning the basics of java programming language. And with this experience, I believe I can do more than just android with java.  There are times in these last two weeks that I became discouraged when my codes failed to work or execute but I found encouragement when I see my friends persisting. There are times I encounter challenges in debugging codes but the ability to be able to persist and not get discouraged is what makes a successful programmer. I want to become a successful programmer and to achieve this, I must surround myself with people of like minds and Ibadan Summer of code has given me this opportunity. I must say that this experience is worth the troubles.
+        \n\n<b>Written by</b> Audu omoh Kehinde
+    </string>
+</resources>

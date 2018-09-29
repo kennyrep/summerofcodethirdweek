@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coffee Ordering</string>
+    <string name="text_place_order">Welcome to Coffee Ordering App</string>
+    <string name="button_place_order">Place Your Order</string>
+    <string name="text_count_order">0</string>
+    <string name="text_tell_pay">You are paying...</string>
+</resources>
